@@ -1,7 +1,7 @@
 import { Component } from "@angular/core";
 
 @Component({
-    selector: "ns-app1",
+    selector: "ns-app",
     templateUrl: "app.component.html"
 })
 export class AppComponent { }
